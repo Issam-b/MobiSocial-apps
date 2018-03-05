@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobiSocialLab5</string>
+    <string name="search_button">Fetch timeline</string>
+    <string name="user_input">Enter twitter username</string>
+    <string name="list_label">User timeline</string>
+    <string name="consumer_key">G1griZ1qdWbV1W9rAI61IZmxB</string>
+    <string name="consumer_secret_key">liyTs1MXFPhWMZovLMqYrsVbnLX8lge7HhKqY0te1uPswaKozt</string>
+    <string name="access_token">2871373847-1DHW3Y2m4VTYXCVt6vkuEk4xrOKbGGwmalqfPv6</string>
+    <string name="access_token_Secret">WMj2lPjtYkHVOrk85o78A6fY52Mm58TiVAf4CWzVgp4h7</string>
+</resources>
