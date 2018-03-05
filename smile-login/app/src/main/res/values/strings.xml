@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobiSocialLab6</string>
+    <string name="login_button">Login</string>
+    <string name="status_text">Smile detected: %1$s</string>
+    <string name="success_login">You made it. Finally, you learned to SMILE!</string>
+    <string name="exit_button">Exit App</string>
+</resources>
