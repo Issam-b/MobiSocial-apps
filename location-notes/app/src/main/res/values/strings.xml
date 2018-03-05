@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobiSocialLab4</string>
+    <string name="title_placeholder">Message title...</string>
+    <string name="message_placeholder">Message body</string>
+    <string name="newMessageButton">Add note</string>
+    <string name="main_Text">Type a message below to be saved in the current location and you will get
+        a notification whenever you come back to it (uses GPS coordinates), then click add note.</string>
+</resources>
