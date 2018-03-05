@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobiSocialLab2</string>
+    <string name="magnetValueText">Magnetometer reading (Threshold is 100 µTesla)</string>
+    <string name="accelerometerValueText">Accelerometer reading:</string>
+    <string name="no_sensor">No appropriate sensor has been found.</string>
+    <string name="no_metal">No metal detected.</string>
+    <string name="metal_detected">Metal detected !</string>
+</resources>
